@@ -14,8 +14,7 @@ const Counter = () => {
     const timer = setInterval(() => {
       setCount((c) => c + 1)
     }, 1000)
-    return () => clearInterval(timer)
-  }, [])
+  })
 
   return <div>{count}</div>
 }
