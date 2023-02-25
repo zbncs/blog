@@ -16,7 +16,7 @@ fe学习的地方
 [如何减少react组件不必要的重新渲染](https://github.com/zbncs/blog/blob/main/React/%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%91react%E7%BB%84%E4%BB%B6%E4%B8%8D%E5%BF%85%E8%A6%81%E7%9A%84%E9%87%8D%E6%96%B0%E6%B8%B2%E6%9F%93.md)  
 [React：我们的用法习惯可能是错误的(不优雅)](https://github.com/zbncs/blog/blob/main/React/React%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%A8%E6%B3%95%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84(%E4%B8%8D%E4%BC%98%E9%9B%85).md)  
 [你的useCallback和useMemo用对了吗](https://github.com/zbncs/blog/blob/main/React/%E4%BD%A0%E7%9A%84useCallback%E5%92%8CuseMemo%E7%94%A8%E5%AF%B9%E4%BA%86%E5%90%97.md)  
-[react错误处理]：(https://github.com/zbncs/blog/blob/main/React/react%20%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86.md)  
+[react错误处理](https://github.com/zbncs/blog/blob/main/React/react%20%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86.md)  
 
 ## Vue
 
